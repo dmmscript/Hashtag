@@ -69,10 +69,8 @@ for linha in tabela.index:
     telefone = tabela.loc[linha, "telefone"]
     pyautogui.write(str(telefone))
     pyautogui.press("tab")
-    time.sleep(60) # SELECIONE E INCLUA MANUALMENTE SÃO CARLOS
-
-
- # FINALIZAR INSCRIÇÃO MANUALMENTE
+    time.sleep(60) # SELECIONE E INCLUA MANUALMENTE SÃO CARLOS E UNICEP
+    # FINALIZAR INSCRIÇÃO MANUALMENTE
 
 
 #cpf,nome,sobrenome,citacao_bibliografica,email,confirmar_email,telefone
