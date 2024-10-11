@@ -1,0 +1,30 @@
+import pyautogui
+import time
+import pandas as pd
+
+# pyautogui.PAUSE = 0.5
+
+# quero fazer um programa que para aquando eu der run all, 
+
+# eu arraste o ponteiro do mouse num ponto x y, 
+
+# clique, 
+
+# clique em outro ponto x y (caixa texto 1), 
+
+# escreva o primeiro dado da tabela,
+
+#  de press tab 
+
+# escreva x dados da tabela 
+
+# de x press tabs
+
+# for linha in tabela_index
+
+# #abrir a pagina do formulario dividindo com a pagina do excel
+
+# # pegar coordenadas e ir dando press tab
+
+
+
