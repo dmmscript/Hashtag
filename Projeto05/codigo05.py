@@ -4,7 +4,7 @@ import pandas as pd
 
 pyautogui.PAUSE = 1
 
-# ESTEJA COM O NOTEBOOK ABERTO COM A PAGINA DO CIC
+# ESTEJA COM O NOTEBOOK À ESQUERDA DO MONITOR PRINCIPAL, ABERTO NA PAGINA DO CIC
 
 pyautogui.click(x=-1762, y=143)
 time.sleep(2)
